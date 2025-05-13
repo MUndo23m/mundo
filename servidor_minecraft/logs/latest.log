@@ -106,3 +106,8 @@
 [02:51:33] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 838eb9b2-10af-4980-9efe-22dcad517137, mapped to Bat['Bat'/472, uuid='838eb9b2-10af-4980-9efe-22dcad517137', l='ServerLevel[world]', x=10973.42, y=21.04, z=-5151.78, cpos=[685, -322], tl=221, v=true], can't add Bat['Bat'/490, uuid='838eb9b2-10af-4980-9efe-22dcad517137', l='ServerLevel[world]', x=10966.98, y=21.88, z=-5156.08, cpos=[685, -323], tl=367, v=false]
 [02:59:29] [Server thread/INFO]: jp7806073 lost connection: Disconnected
 [02:59:29] [Server thread/INFO]: jp7806073 left the game
+[02:59:35] [Server thread/INFO]: jhonwuyck722 lost connection: Disconnected
+[02:59:35] [Server thread/INFO]: jhonwuyck722 left the game
+[03:01:08] [User Authenticator #1/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[03:01:13] [Server thread/INFO]: jp7806073 joined the game
+[03:01:13] [Server thread/INFO]: jp7806073[/127.165.79.116:36215] logged in with entity id 4268 at ([world]11577.699999988079, 71.0, -3782.699999988079)
