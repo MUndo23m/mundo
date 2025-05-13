@@ -98,3 +98,45 @@
 [03:38:54] [Server thread/INFO]: jp7806073 joined the game
 [03:38:55] [Server thread/INFO]: jp7806073[/127.165.79.116:45787] logged in with entity id 76 at ([world]11591.101976067217, 70.875, -3704.9555949321943)
 [03:55:07] [Server thread/INFO]: jp7806073 was slain by Iron Golem ❤
+[04:28:47] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[04:28:47] [Server thread/INFO]: jp7806073 left the game
+[04:29:39] [Server thread/INFO]: Stopping the server
+[04:29:39] [Server thread/INFO]: Stopping server
+[04:29:39] [Server thread/INFO]: [GSit] Disabling GSit v2.3.0
+[04:29:39] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[04:29:39] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.4
+[04:29:39] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.3
+[04:29:39] [Server thread/INFO]: [LockShulker] Disabling LockShulker v1.0
+[04:29:39] [Server thread/INFO]: [LockShulker] LockShulker выключен!
+[04:29:39] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.158
+[04:29:39] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[04:29:39] [Server thread/INFO]: [LuckPerms] Closing storage...
+[04:29:39] [Server thread/INFO]: [LuckPerms] Goodbye!
+[04:29:39] [Server thread/INFO]: [Graves] Disabling Graves v4.9.7
+[04:29:39] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.1 b112
+[04:29:39] [Server thread/INFO]: [LevelledMobs] Unregistering commands
+[04:29:39] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[04:29:39] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 2ms)
+[04:29:39] [Craft Scheduler Thread - 2 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[04:29:39] [Craft Scheduler Thread - 0 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[04:29:39] [Server thread/INFO]: Saving players
+[04:29:39] [Server thread/INFO]: Saving worlds
+[04:29:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:29:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:29:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:29:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:29:39] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 9 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[04:29:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:29:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:29:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:29:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:29:39] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 8 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[04:29:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:29:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:29:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:29:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:29:39] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 15 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[04:29:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:29:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:29:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:29:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
