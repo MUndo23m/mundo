@@ -122,3 +122,17 @@
 [01:11:08] [Server thread/INFO]: Sebas23m left the game
 [01:12:36] [Server thread/INFO]: jp7806073 lost connection: Disconnected
 [01:12:36] [Server thread/INFO]: jp7806073 left the game
+[01:25:52] [User Authenticator #2/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[01:25:54] [Server thread/INFO]: Sebas23m joined the game
+[01:25:54] [Server thread/INFO]: Sebas23m[/127.225.117.164:42643] logged in with entity id 20942 at ([world]-17547.651512971912, 71.0, -4350.2734891188775)
+[01:26:34] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[01:26:34] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[01:32:25] [User Authenticator #3/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[01:32:29] [Server thread/INFO]: jp7806073 joined the game
+[01:32:29] [Server thread/INFO]: jp7806073[/127.165.79.116:42141] logged in with entity id 22106 at ([world]10799.699999988079, 67.0, -5235.699999988079)
+[01:32:37] [Async Chat Thread - #4/INFO]: [Not Secure] <Sebas23m> lama
+[01:33:17] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> voy
+[01:33:50] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
+[01:33:50] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
+[01:34:17] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[01:34:17] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
