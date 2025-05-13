@@ -136,3 +136,11 @@
 [01:33:50] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
 [01:34:17] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
 [01:34:17] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[01:35:48] [Async Chat Thread - #6/INFO]: [Not Secure] <jp7806073> contesta
+[01:38:50] [User Authenticator #4/INFO]: UUID of player jhonwuyck722 is 22f109f5-0b6d-34a0-824b-497aa73b1c40
+[01:38:54] [Server thread/INFO]: jhonwuyck722 joined the game
+[01:38:54] [Server thread/INFO]: jhonwuyck722[/127.165.79.116:34025] logged in with entity id 24163 at ([world]11591.2044911455, 66.5625, -3703.3165134290944)
+[01:39:33] [Server thread/INFO]: jhonwuyck722 has made the advancement [Into Fire]
+[01:39:39] [Server thread/INFO]: Sebas23m issued server command: /tp jhonwuyck722 jp7806073
+[01:39:39] [Server thread/INFO]: [Sebas23m: Teleported jhonwuyck722 to jp7806073]
+[01:39:49] [Server thread/INFO]: jhonwuyck722 was slain by jp7806073

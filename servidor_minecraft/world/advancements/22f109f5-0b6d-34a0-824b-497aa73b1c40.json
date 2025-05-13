@@ -13,6 +13,7 @@
       "minecraft:taiga": "2025-05-11 15:31:20 +0000",
       "minecraft:river": "2025-05-11 15:39:09 +0000",
       "minecraft:snowy_plains": "2025-05-11 15:48:51 +0000",
+      "minecraft:stony_shore": "2025-05-13 01:39:40 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-11 15:44:44 +0000",
       "minecraft:frozen_river": "2025-05-11 15:48:45 +0000",
       "minecraft:windswept_forest": "2025-05-11 15:35:55 +0000",
@@ -387,6 +388,24 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-05-11 15:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-13 01:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-13 01:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-13 01:39:33 +0000"
     },
     "done": true
   },
