@@ -42,6 +42,7 @@
       "minecraft:snowy_plains": "2025-05-09 02:25:45 +0000",
       "minecraft:snowy_taiga": "2025-05-09 02:25:55 +0000",
       "minecraft:dripstone_caves": "2025-05-11 02:03:09 +0000",
+      "minecraft:frozen_peaks": "2025-05-13 02:02:58 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-07 00:20:49 +0000",
       "minecraft:deep_dark": "2025-05-07 00:40:42 +0000",
       "minecraft:grove": "2025-05-07 00:21:01 +0000",
@@ -2594,9 +2595,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-13 02:17:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-13 01:58:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-13 02:17:50 +0000"
     },
     "done": true
   },
@@ -2609,6 +2622,18 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-05-13 01:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-13 02:17:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-13 02:17:50 +0000"
     },
     "done": true
   },
@@ -2642,6 +2667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-05-13 02:09:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-05-13 01:56:46 +0000"
@@ -2654,6 +2685,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-13 02:17:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-13 02:17:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-05-13 01:56:46 +0000"
@@ -2663,6 +2706,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-13 01:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-13 02:17:50 +0000"
     },
     "done": true
   },
